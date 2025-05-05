@@ -18,6 +18,8 @@ public class App {
 
         }else{
             JOptionPane.showMessageDialog(null, "Encerrando o sistema");
+            if (op == 4);
+            System.exit(0);
         }
         switch(op){
             case 1:
@@ -26,7 +28,7 @@ public class App {
             JOptionPane.showMessageDialog(null , "Probabilidade");break; 
             case 3:
             JOptionPane.showMessageDialog(null ,"Modelos Porbabilisticos");break;
-
+            
             default:
             JOptionPane.showMessageDialog(null,"Opção Invalida!");
 
