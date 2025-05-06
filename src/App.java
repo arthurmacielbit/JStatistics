@@ -45,7 +45,7 @@ public class App {
         String saida = "Resultado do lançamento:"+espacoAmostral[resultado]+
                        "\n(Índice gerado)"+resultado+")";
         JOptionPane.showMessageDialog(null,saida,"Resultado",JOptionPane.INFORMATION_MESSAGE);
-
+//teste
     }
     }
 }
